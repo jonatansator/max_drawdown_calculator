@@ -7,3 +7,6 @@
 ## Files
 - `max_drawdown.xlsx`: Excel spreadsheet containing the portfolio values, drawdown calculations, and visualization.
 - `output.png`: Plot.
+
+## Screenshots
+![output](output.png)
